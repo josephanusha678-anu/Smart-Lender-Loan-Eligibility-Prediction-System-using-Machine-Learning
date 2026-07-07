@@ -1,0 +1,26 @@
+Technologies Used
+
+Programming Language
+- Python
+
+Frontend
+- HTML
+- CSS
+
+Backend
+- Flask
+
+Machine Learning
+- Scikit-learn
+- XGBoost
+
+Libraries
+- Pandas
+- NumPy
+- Pickle
+
+IDE
+- Visual Studio Code
+
+Dataset
+- Loan Prediction Dataset (loan.csv)

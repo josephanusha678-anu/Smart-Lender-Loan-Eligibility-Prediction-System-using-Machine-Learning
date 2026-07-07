@@ -1,0 +1,15 @@
+Project Testing Report
+
+Project Name:
+Smart Lender - Loan Eligibility Prediction System
+
+Testing Type:
+- Functional Testing
+- User Interface Testing
+- Model Prediction Testing
+
+Testing Summary:
+The Smart Lender application was tested using multiple loan applicant records. The system successfully accepted user inputs, processed the machine learning model, and displayed loan approval or rejection results.
+
+Result:
+All major functionalities are working successfully.

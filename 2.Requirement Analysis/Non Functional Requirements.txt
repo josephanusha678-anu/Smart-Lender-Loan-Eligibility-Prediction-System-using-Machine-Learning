@@ -1,0 +1,8 @@
+Non-Functional Requirements
+
+1. Fast prediction response.
+2. Easy to use interface.
+3. Reliable prediction.
+4. Secure processing of user input.
+5. Maintainable source code.
+6. Scalable web application.

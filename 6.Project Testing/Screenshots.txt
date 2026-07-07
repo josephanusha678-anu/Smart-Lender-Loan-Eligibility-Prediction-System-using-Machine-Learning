@@ -1,0 +1,11 @@
+Project Screenshots
+
+1. Home Page Screenshot
+
+2. Filled Form Screenshot
+
+3. Loan Approved Screenshot
+
+4. Loan Rejected Screenshot
+
+5. VS Code Project Structure Screenshot

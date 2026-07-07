@@ -1,0 +1,17 @@
+Project Demonstration Script
+
+Hello everyone,
+
+My project title is Smart Lender – Loan Eligibility Prediction System.
+
+This project uses Machine Learning to predict whether a loan applicant is eligible for loan approval.
+
+The application is developed using Python, Flask, HTML, CSS, and Scikit-learn.
+
+The user enters details such as income, education, employment status, loan amount, credit history, and property area.
+
+The trained Random Forest model processes these inputs and predicts whether the loan is approved or rejected.
+
+The application is simple, fast, and user-friendly.
+
+Thank you.

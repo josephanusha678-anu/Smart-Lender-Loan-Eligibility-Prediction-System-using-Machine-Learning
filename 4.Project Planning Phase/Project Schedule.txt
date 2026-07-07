@@ -1,0 +1,14 @@
+Project Schedule
+
+Task                          Status
+
+Requirement Analysis          Completed
+Dataset Collection            Completed
+Data Cleaning                 Completed
+Feature Encoding              Completed
+Model Training                Completed
+Model Testing                 Completed
+Flask Development             Completed
+Project Testing               Completed
+Documentation                 Completed
+Project Demonstration         Completed

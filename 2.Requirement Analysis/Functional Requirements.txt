@@ -1,0 +1,7 @@
+Functional Requirements
+
+1. User should be able to enter loan applicant details.
+2. System should validate all input fields.
+3. System should predict loan eligibility.
+4. System should display Loan Approved or Loan Rejected.
+5. System should provide a simple and user-friendly interface.

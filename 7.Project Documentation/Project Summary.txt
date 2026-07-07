@@ -1,0 +1,11 @@
+Project Summary
+
+Project Title:
+Smart Lender – Loan Eligibility Prediction System
+
+Description:
+The Smart Lender Loan Eligibility Prediction System is a Machine Learning-based web application that predicts whether a loan applicant is eligible for a loan. The system uses applicant information such as income, education, employment status, loan amount, credit history, and property area to make predictions.
+
+The project is developed using Python, Flask, HTML, CSS, and Scikit-learn. A Random Forest Classifier is used as the final prediction model because it achieved the highest accuracy among the tested algorithms.
+
+The application provides a simple user interface where users can enter loan details and instantly receive the prediction result.

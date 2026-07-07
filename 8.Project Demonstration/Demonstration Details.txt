@@ -1,0 +1,21 @@
+Project Demonstration
+
+Project Name:
+Smart Lender – Loan Eligibility Prediction System
+
+Technology Used:
+- Python
+- Flask
+- HTML
+- CSS
+- Scikit-learn
+- Random Forest
+
+Machine Learning Model Accuracy:
+Random Forest Accuracy: 76.42%
+
+Project Status:
+Successfully Completed
+
+Output:
+Loan Eligibility Prediction (Approved / Rejected)

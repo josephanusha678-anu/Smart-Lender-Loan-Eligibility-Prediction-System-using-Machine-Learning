@@ -1,0 +1,23 @@
+Project Planning
+
+Project Name:
+Smart Lender – Loan Eligibility Prediction System
+
+Project Duration:
+4 Weeks
+
+Development Methodology:
+Machine Learning Development Lifecycle
+
+Tools Used:
+- Python
+- Flask
+- VS Code
+- Scikit-learn
+- Pandas
+- NumPy
+- HTML
+- CSS
+
+Project Goal:
+To build a machine learning-based web application that predicts whether a loan applicant is eligible for loan approval.

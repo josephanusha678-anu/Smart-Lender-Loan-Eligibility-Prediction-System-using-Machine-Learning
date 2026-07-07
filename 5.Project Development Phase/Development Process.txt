@@ -1,0 +1,38 @@
+Development Process
+
+The Smart Lender Loan Eligibility Prediction System was developed using the Machine Learning Development Life Cycle (MLDLC).
+
+The development process consists of the following steps:
+
+1. Dataset Collection
+   - Loan Prediction Dataset (loan.csv)
+
+2. Data Preprocessing
+   - Handling missing values
+   - Encoding categorical values
+   - Removing unnecessary columns
+
+3. Feature Selection
+   - Selecting important features affecting loan approval
+
+4. Model Training
+   - Decision Tree
+   - Random Forest
+   - KNN
+   - XGBoost
+
+5. Model Evaluation
+   - Comparing accuracy of different algorithms
+
+6. Model Saving
+   - Saving the best model as loan_model.pkl
+
+7. Web Application Development
+   - Flask
+   - HTML
+   - CSS
+
+8. Testing
+   - Testing different loan application scenarios
+
+9. Final Deployment
