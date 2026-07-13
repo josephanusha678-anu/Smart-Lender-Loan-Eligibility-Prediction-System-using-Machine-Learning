@@ -1,3 +1,0 @@
-# Problem Statement
-
-Traditional loan approval processes are time-consuming and require manual verification of applicant details. This project develops a machine learning-based Loan Eligibility Prediction System that automates the prediction process using applicant information, reducing processing time and assisting financial institutions in making faster and more consistent loan approval decisions.
