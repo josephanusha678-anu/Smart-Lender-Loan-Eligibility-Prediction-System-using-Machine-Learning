@@ -1,9 +1,0 @@
-Conclusion
-
-The Smart Lender Loan Eligibility Prediction System successfully predicts whether a loan application is likely to be approved or rejected using machine learning techniques.
-
-The project demonstrates the practical implementation of data preprocessing, feature engineering, model training, model evaluation, and web application development.
-
-The Random Forest algorithm achieved better performance compared to the other models tested, making it the preferred model for deployment.
-
-Overall, the project simplifies the loan evaluation process and provides quick predictions through a user-friendly web interface.
